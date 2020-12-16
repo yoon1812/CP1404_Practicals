@@ -7,5 +7,5 @@ if color_name in COLOR_CODE:
     print(color_name, "is", COLOR_CODE[color_name])
 else:
     print("Invalid color name")
-    state_code = input("Enter color name: ")
+    state_code  input("Enter color name: ")
 
