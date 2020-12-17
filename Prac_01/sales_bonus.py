@@ -16,4 +16,3 @@ while sales >= 0:
 else:
     print('invalid number')
 
-aadfadfadfa
